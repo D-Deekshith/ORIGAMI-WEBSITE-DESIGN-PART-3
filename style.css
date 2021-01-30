@@ -1,0 +1,101 @@
+.item1{
+    color:rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(126, 248, 69);
+    flex-wrap: wrap;
+}
+
+.item2{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(86, 228, 204);
+    flex-wrap: wrap;
+}
+
+.item3{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(201, 235, 50);
+    flex-wrap: wrap;
+}
+
+.item4{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(230, 58, 236);
+    flex-wrap: wrap;
+}
+
+.item5{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(240, 179, 13);
+    flex-wrap: wrap;
+}
+
+.item6{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(42, 28, 235);
+    flex-wrap: wrap;
+}
+
+.item7{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(209, 74, 97);
+    flex-wrap: wrap;
+}
+
+.item8{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(179, 255, 0);
+    flex-wrap: wrap;
+}
+
+.item9{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(83, 238, 161);
+    flex-wrap: wrap;
+}
+
+.item10{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(66, 115, 207);
+    flex-wrap: wrap;
+}
+
+.header{
+    background-color: aqua;
+}
+
+.body{
+    background-color: rgb(30, 255, 0);
+    color: pink;
+}
+
+.end{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+    font-family: "Lucida Handwriting";
+}
+
+.end img{
+    border: 5px solid rgb(255, 0, 0);
+    padding: 15px;
+    justify-content: space-around;
+    margin: 50px;
+    border-radius: 70px;
+}
+
+.total{
+    background-color: rgb(255, 0, 255);
+}
+
+.ending{
+    background-color: rgb(255, 127, 127);
+}
